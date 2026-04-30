@@ -1,0 +1,11 @@
+id: a1
+name: 25e
+version: 1.0.0
+author: Turn
+icon: ''
+desc: 试试
+files:
+  - app.yaml
+  - gui.py
+  - main.py
+  - serial_protocol.py
